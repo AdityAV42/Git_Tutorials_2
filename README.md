@@ -21,5 +21,6 @@ Here are git commands to remember:-
       OR
     
     git reset -HEAD~2 and so on...
+    
 16. git reset -hard <commit_code>
 
