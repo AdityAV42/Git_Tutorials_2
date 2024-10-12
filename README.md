@@ -15,12 +15,14 @@ Here are git commands to remember:-
 11. git checkout branchname
 12. git reset
 13. git reset <filename>
+
 14. git reset -HEAD
+
 15. git reset -HEAD~1 
 
       OR
     
     git reset -HEAD~2 and so on...
-    
+
 16. git reset -hard <commit_code>
 
