@@ -26,3 +26,4 @@ Here are git commands to remember:-
 
 16. git reset -hard <commit_code>
 
+## git branch 
